@@ -214,28 +214,6 @@ The application integrates with the WeWantWaste API:
 - **Prettier**: Consistent code formatting
 - **Component Documentation**: Clear prop interfaces
 
-## 📈 Performance Metrics
-
-- **First Contentful Paint**: < 1.5s
-- **Largest Contentful Paint**: < 2.5s
-- **Cumulative Layout Shift**: < 0.1
-- **Time to Interactive**: < 3s
-
-## 🔒 Security Considerations
-
-- **API Security**: HTTPS-only requests
-- **Input Validation**: Client-side validation for user inputs
-- **Error Handling**: Graceful error handling without exposing internals
-- **Dependencies**: Regular security updates
-
-## 📞 Contact & Support
-
-For questions about this implementation or technical discussions:
-
-- **Developer**: Saad
-- **GitHub**: [Sadhr/skip-selector](https://github.com/Sadhr/skip-selector)
-- **Email**: [Your email here]
-
 ---
 
-**Built with ❤️ using React, TypeScript, and Material-UI**
+**Built with ❤️ using React, TypeScript, and Material-UI For REMWaste**
